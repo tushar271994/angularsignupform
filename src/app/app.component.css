@@ -1,0 +1,32 @@
+span.customDatepicker{
+    display: inline-block;
+    width: 202px;
+}
+
+.invalid-feedback{
+    margin: 5px 0 10px 166px;
+    color: red;
+    display: inline-block;
+}
+ .form-control.ng-invalid.ng-touched{
+    border: 1px solid red;
+
+} 
+.jumbotron{
+    width: 603px;
+    margin: auto;
+}
+.container{
+    padding: 40px;
+}
+.title{
+    text-align: center;
+    font-size: 32px;
+}
+form{
+    padding: 40px;
+}
+button{
+    margin: 25px 160px;
+    padding: 10px 35px;
+}
